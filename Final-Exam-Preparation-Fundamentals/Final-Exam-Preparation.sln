@@ -3,11 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Activation Keys", "01. Activation Keys\01. Activation Keys.csproj", "{09367980-CD66-4F8C-8A78-9F80837D0F20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Activation Keys", "01. Activation Keys\01. Activation Keys.csproj", "{09367980-CD66-4F8C-8A78-9F80837D0F20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Emoji Detector", "02. Emoji Detector\02. Emoji Detector.csproj", "{C9130F9E-EF30-40CE-81FF-647B6AAB6C95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Emoji Detector", "02. Emoji Detector\02. Emoji Detector.csproj", "{C9130F9E-EF30-40CE-81FF-647B6AAB6C95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. P!rates", "03. P!rates\03. P!rates.csproj", "{7381F19F-5509-42CE-9484-AA9E6FBF3F84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. P!rates", "03. P!rates\03. P!rates.csproj", "{7381F19F-5509-42CE-9484-AA9E6FBF3F84}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. The Imitation Game", "01. The Imitation Game\01. The Imitation Game.csproj", "{2C91323D-7C3F-4068-B2C1-09DC39DF57CB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Ad Astra", "02. Ad Astra\02. Ad Astra.csproj", "{CDB82B94-98B8-4219-880B-B8C4DE1DD0E5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. The Pianist", "03. The Pianist\03. The Pianist.csproj", "{6626BECC-C477-44C3-A511-C3F6CC78FD47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Censorship", "01. Censorship\01. Censorship.csproj", "{964ABA05-B6CD-481A-A7EC-70CAE104A6A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Email me", "02. Email me\02. Email me.csproj", "{29AE84E7-B32B-4F18-8C94-E93C18BB3843}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Karate Strings", "03. Karate Strings\03. Karate Strings.csproj", "{CFBB9170-CF5C-4FA5-ADD2-2AFAB6821314}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Morse Code Upgraded", "04. Morse Code Upgraded\04. Morse Code Upgraded.csproj", "{E9712300-E1B9-4FDF-AC8A-CB9995BCEBF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +41,34 @@ Global
 		{7381F19F-5509-42CE-9484-AA9E6FBF3F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7381F19F-5509-42CE-9484-AA9E6FBF3F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7381F19F-5509-42CE-9484-AA9E6FBF3F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C91323D-7C3F-4068-B2C1-09DC39DF57CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C91323D-7C3F-4068-B2C1-09DC39DF57CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C91323D-7C3F-4068-B2C1-09DC39DF57CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C91323D-7C3F-4068-B2C1-09DC39DF57CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDB82B94-98B8-4219-880B-B8C4DE1DD0E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB82B94-98B8-4219-880B-B8C4DE1DD0E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB82B94-98B8-4219-880B-B8C4DE1DD0E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB82B94-98B8-4219-880B-B8C4DE1DD0E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6626BECC-C477-44C3-A511-C3F6CC78FD47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6626BECC-C477-44C3-A511-C3F6CC78FD47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6626BECC-C477-44C3-A511-C3F6CC78FD47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6626BECC-C477-44C3-A511-C3F6CC78FD47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{964ABA05-B6CD-481A-A7EC-70CAE104A6A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964ABA05-B6CD-481A-A7EC-70CAE104A6A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964ABA05-B6CD-481A-A7EC-70CAE104A6A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964ABA05-B6CD-481A-A7EC-70CAE104A6A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29AE84E7-B32B-4F18-8C94-E93C18BB3843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29AE84E7-B32B-4F18-8C94-E93C18BB3843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29AE84E7-B32B-4F18-8C94-E93C18BB3843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29AE84E7-B32B-4F18-8C94-E93C18BB3843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFBB9170-CF5C-4FA5-ADD2-2AFAB6821314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBB9170-CF5C-4FA5-ADD2-2AFAB6821314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBB9170-CF5C-4FA5-ADD2-2AFAB6821314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBB9170-CF5C-4FA5-ADD2-2AFAB6821314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9712300-E1B9-4FDF-AC8A-CB9995BCEBF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9712300-E1B9-4FDF-AC8A-CB9995BCEBF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9712300-E1B9-4FDF-AC8A-CB9995BCEBF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9712300-E1B9-4FDF-AC8A-CB9995BCEBF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
