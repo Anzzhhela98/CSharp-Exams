@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Censorship", "01. Censo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Email me", "02. Email me\02. Email me.csproj", "{29AE84E7-B32B-4F18-8C94-E93C18BB3843}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Dictionary", "01.Dictionary\01.Dictionary.csproj", "{F24F1E19-108E-4CEC-AFE9-CE13CDF08206}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Dictionary", "01.Dictionary\01.Dictionary.csproj", "{F24F1E19-108E-4CEC-AFE9-CE13CDF08206}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Deciphering", "03.Library\02. Deciphering.csproj", "{033E89E0-0E14-40E7-8214-753E0F8E1C58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. The Imitation Game-", "01. The Imitation Game-\01. The Imitation Game-.csproj", "{888EE7F7-ABEF-46FD-837F-DD2F78960D15}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{033E89E0-0E14-40E7-8214-753E0F8E1C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{033E89E0-0E14-40E7-8214-753E0F8E1C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{033E89E0-0E14-40E7-8214-753E0F8E1C58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{888EE7F7-ABEF-46FD-837F-DD2F78960D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{888EE7F7-ABEF-46FD-837F-DD2F78960D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{888EE7F7-ABEF-46FD-837F-DD2F78960D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{888EE7F7-ABEF-46FD-837F-DD2F78960D15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
