@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_03</RootNamespace>
+    <RootNamespace>_01.ProblemStringOperation</RootNamespace>
   </PropertyGroup>
 
 </Project>

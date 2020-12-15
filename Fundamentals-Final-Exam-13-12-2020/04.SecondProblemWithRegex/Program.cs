@@ -27,7 +27,7 @@ namespace _04
                     {
                         intChar.Add((char)arr[j]);
                     }
-                Console.WriteLine($"{message.Groups[1]}: {String.Join(" ", intChar)}");
+                    Console.WriteLine($"{message.Groups[1]}: {String.Join(" ", intChar)}");
                 }
 
             }
